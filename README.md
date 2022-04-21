@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @dapingz
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently updating my data analysis knowledge and skills 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @dapingz
+- I’m interested in Data Science
+- I’m currently updating my data analysis knowledge and skills 
 
 <!---
 dapingz/dapingz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
